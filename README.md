@@ -65,4 +65,3 @@ Cada lab pode ter flags ou comandos específicos – consulte o README interno d
 ---
 
 *Repositório de documentação acadêmica. Para dúvidas, abra uma issue.*
-```
