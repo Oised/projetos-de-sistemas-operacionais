@@ -1,0 +1,27 @@
+# Executáveis compilados (gerados a partir de .c)
+*.out
+*.exe
+*.o
+a.out
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de backup de editores
+*~
+*.swp
+
+# Possíveis arquivos compactados (se não quiser versionar)
+*.zip
+*.tar.gz
+
+# Arquivos do Xournal++ (caso use para editar PDFs)
+*.xopp
+
+# Diretórios de build (se algum lab usar)
+build/
+cmake-build-*/
+
+# Arquivos de log
+*.log
